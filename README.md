@@ -2,7 +2,7 @@
 
 #### ♦ Developer & Gamer
 #### ♦ Projects: Ace's DevLand, DijxCloud and FyreDevs
-#### ♦ Languages: HTML, CSS, PHP, Py & JS
+#### ♦ Languages: Py, Js, HTML, CSS, & PHP
 
 ##### Personal Site: [ItsAceCraft.xyz](https://itsacecraft.xyz)
 ##### Developer Site: [Dev.ItsAceCraft.xyz](https://dev.itsacecraft.xyz)
