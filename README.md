@@ -1,9 +1,10 @@
 ## Hola, I'm Siddharth! 👋
-### Main Account: @ItsAceCraft
 
 #### ♦ Developer & Gamer
 #### ♦ Projects: DijxCloud, FyreDevs & Ace's DevLand
 #### ♦ Languages: Py, Js, HTML, CSS, & PHP
+
+### Main Account: @ItsAceCraft
 
 ##### Developer Site: [Dev.ItsAceCraft.xyz](https://dev.itsacecraft.xyz)
 ##### Discord: [ItsAceCraft#3421](https://discord.gg/6wmDX5CyYT)
