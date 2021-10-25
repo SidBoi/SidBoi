@@ -1,7 +1,7 @@
 ## Hola, I'm Siddharth! 👋
 
 #### ♦ Developer & Gamer
-#### ♦ Projects: @DijxCloud, @FyreDevs & Ace's DevLand
+#### ♦ Projects: DijxCloud, FyreDevs & Ace's DevLand
 #### ♦ Languages: Py, Js, HTML, CSS, & PHP
 
 ##### Developer Site: [Dev.ItsAceCraft.xyz](https://dev.itsacecraft.xyz)
