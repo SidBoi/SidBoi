@@ -1,7 +1,5 @@
 ## Hola, I'm Siddharth! 👋
 
-### Current Status:
-
 #### ♦ Developer & Gamer
 #### ♦ Projects: DijxCloud, FyreDevs & Ace's DevLand
 #### ♦ Languages: Py, Js, HTML, CSS, & PHP
