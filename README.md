@@ -11,4 +11,4 @@
 ##### Email: ace@dijx.cloud
 
 ### Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AceAlt&count_private=true&show_icons=true&hide=issues&theme=material-palenight&hide_border=true&locale=en)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SidBoi&count_private=true&show_icons=true&hide=issues&theme=material-palenight&hide_border=true&locale=en)
